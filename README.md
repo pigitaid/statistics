@@ -1,2 +1,2 @@
-# statistics
-Statistics Scripts
+# Statistics
+Generical statistics scripts
